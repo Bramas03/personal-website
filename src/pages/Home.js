@@ -31,7 +31,7 @@ export default function Home() {
             <p>
                 A mobile app that recommends study and social locations to higher education students (cafes, restaurants, libraries). Critically analysed and reviewed quality literature regarding informal learning environments and student loneliness to inform requirements. Conducted a survey to receive feedback from local students. Developed a project plan while determining the best approach, comparing techniques (framework, research methods). Managed project using Gantt chart and measuring and maintaining project objectives throughout research. Developed using React Native on frontend, PHP on backend.
             </p> */}
-
+    <p>testing</p>
             <Project img={Scout}title="Scout - Dissertation Project" text="A mobile app that recommends study and social locations to higher education students (cafes, restaurants, libraries). Critically analysed and reviewed quality literature regarding informal learning environments and student loneliness to inform requirements. Conducted a survey to receive feedback from local students. Developed a project plan while determining the best approach, comparing techniques (framework, research methods). Managed project using Gantt chart and measuring and maintaining project objectives throughout research. Developed using React Native on frontend, PHP on backend."/>
         </div>
 
